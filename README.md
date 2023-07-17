@@ -1,4 +1,4 @@
-# Online Shop (ducational project)
+# Online Shop (educational project)
 
 The Online Shop is a comprehensive e-commerce application that provides a simple and intuitive admin dashboard. The dashboard leverages the power of Laravel as the robust backend framework and React as the dynamic frontend library. This combination ensures a user-friendly experience and efficient management of the online store.
 
